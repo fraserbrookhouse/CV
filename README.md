@@ -68,7 +68,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Bachelors in International Politics
 - 2:1
 
-#### Any other qualifications
+#### Other qualifications
 
 - Completed Google IT Support Specialization Course on Coursera.
 - Six month intensive Mandarin Chinese course at Beijing Language and Culture University (2010)
