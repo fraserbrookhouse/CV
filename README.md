@@ -38,18 +38,7 @@ Now it is time for a new chapter in my life, and while the location may be famil
 
 ## Skills
 
-#### Software and Hardware Troubleshooting and Testing
 
-During my time at both Makers and Buzz Radar, I spent extensive time testing and troubleshooting hardware. That allowed me to learn more about technology I was using but also meant that I would be able to aid with any other issues like this in the future.
-In the past, I attended CES in Las Vegas to provide both hardware and software troubleshooting support to the team and with my understanding of code, I was able to troubleshoot more software related issues onsite and provide tangible and concise information back to the developers back in the UK so that they could repair the issue remotely.
-
-
-
-#### Client Support, Training and Mentoring
-
-My experience here dates back as far as 2010 when I worked in retail at O2 Telefonica advising customers for new tech and mobiles of the time. Since then I have gone on (post university graduation) to work in Japan teaching English as a foreign language. This supported my teaching style which carried over into my next role working with clients such as STA Travel, Ogilvy and Mindshare. <br>
-These roles combined required product knowledge and public speaking skills that allowed me to lead regular training sessions with clients where technical expertise and explanations were required. <br> <br>
-Using the skills and knowledge I acquired in my years of customer support and previous teaching experience has allowed me to pick up mentoring skills. I would like to see this continue to grow deep into my software development career.
 
 <br>
 
