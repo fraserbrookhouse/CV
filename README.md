@@ -12,7 +12,7 @@
 
 I am a Fullstack Software Engineer. I've just graduated from Makers Academy bootcamp and am looking for my first job in Tech.
 
-Prior to **the great calamity** I was living in China and had been working there in Education since 2015. Even before the current situation I was preparing for a transition into tech however. I had started a part time online degree in computer science with the University of London which I was studying for after work and on weekends. The current situation just jumpstarted the move.
+Prior to **The Great Calamity** I was living in China and had been working there in Education since 2015. Even before the current situation I was preparing for a transition into tech however. I had started a part time online degree in computer science with the University of London which I was studying for after work and on weekends. The current situation just jumpstarted the move.
 
 I hope to continue with my degree once I have a job to shore up my computer science fundamentals.
 
