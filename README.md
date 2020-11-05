@@ -10,11 +10,11 @@
 
 ## About Me
 
-Prior to being a graduate from the Makers Software Development bootcamp, I was a primary school teacher in China.
+I am a Fullstack Software Engineer. I've just graduated from Makers Academy bootcamp and am looking for my first job in Tech.
 
-I have spent the last five years living and working in China as a teacher. During that time I have been in charge of the education of hundreds of students, I have been a leader, mentor and friend. Everyday I met new challenges related to language, culture, and personalities. I feel that I rose to them all, and came out stronger for them.
+Prior to **the great calamity** I was living in China and had been working there in Education since 2015. Even before the current situation I was preparing for a transition into tech however. I had started a part time online degree in computer science with the University of London which I was studying for after work and on weekends. The current situation just jumpstarted the move.
 
-Now it is time for a new chapter in my life, and while the location may be familiar, the challenge is new.
+I hope to continue with my degree once I have a job to shore up my computer science fundamentals.
 
 <br>
 
@@ -59,20 +59,42 @@ Learning how to apply industry-standard best practices to write *clean code* to 
 
 ## Experience
 
-### Suzhou Foreign Language School (2019 to 2020)    
+### Suzhou Foreign Language School (2019 to 2020) - Suzhou, China 
 #### *Primary Teacher*  
 
 
 
-### Suzhou Institute of Trade and Commerce (2017 to 2019)   
+### Suzhou Institute of Trade and Commerce (2017 to 2019) - Suzhou, China
 #### *ESL Teacher*
 
 
 
 
-### Nanhu International Experimental Primary School (2015 to 2017)   
+### Nanhu International Experimental Primary School (2015 to 2017) - Jiaxing, China   
 #### *Primary Teacher* 
 
+
+
+### Thorpe Park (2014 season) - Staines, UK
+#### *Ride Operator* 
+
+
+
+
+## Internships
+
+### CLSA - Hong Kong   
+#### *Financial Analyst* 
+
+
+
+### Heidrick and Struggles - Hong Kong   
+#### *Talent Aquisition* 
+
+
+
+### HSBC - London   
+#### *FX and Emerging Markets* 
 
 <br>
 
