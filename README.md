@@ -6,13 +6,6 @@
 
 [<img src="./icons/github.svg" title="GitHub" height="24" align="top">&nbsp;GitHub](https://github.com/fraserbrookhouse)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/linkedin.svg" title="LinkedIn" height="24" align="top">&nbsp;LinkedIn](https://www.linkedin.com/in/fraser-brookhouse-6410102b/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/codewars-icon.svg" title="Codewars" height="24" align="top">&nbsp;Codewars](https://www.codewars.com/users/fraserbrookhouse)
 
-<em>
-Why did I want to be a developer? <br>
-I love building interesting tech projects, the more challenging the better!<br><br>
-Why should you hire me? <br>
-I am eager to learn, and give my all to every assignment.
-</em>
-</div>
 <br>
 
 ## About Me
