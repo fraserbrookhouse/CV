@@ -107,21 +107,20 @@ I ran group tennis class for young children. This required me to design activiti
 
 I was a Child care worker at this kids club. This was somewhere parent's could drop off their kids to be looked after while they went to the gym. I had to be very adaptable as this was available without booking, so I could have 1 child or 8 children at a time. I had to ensure that the activities ran smoothly and the children had a fun and safe time.
 
-
 ## Internships
 
 ### CLSA - Hong Kong   
 #### *Financial Analyst* 
 
+I worked as aMacro-economic researcher on the ASEAN desk.
+Here I learned to quickly find and parse economic data from a wide variety of countries and industries to deliver to clients in an easy to understand and actionable format.
 
+My big achievement in this role was a to create a research paper on the expected economic impact of the El Niño weather event.
 
 ### Heidrick and Struggles - Hong Kong   
-#### *Talent Acquisition* 
+#### *Talent Acquisition*
 
-
-
-### HSBC - London, UK 
-#### *FX and Emerging Markets* 
+I learned how to search for and find potential applicants for upper management level positions in financial institutions. I presented these potential applicants with a short summary of their qualifications and work experience so they could be easily compared.
 
 <br>
 
