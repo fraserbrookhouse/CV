@@ -1,83 +1,102 @@
-## Fraser Brookhouse
+<!DOCTYPE html>
 
-Full stack developer with proficiency in Ruby, and some understanding of Javascript and Python. I can create fully featured web applications.
+<h1 align="center">Fraser Brookhouse</h1>
 
-I have experience in the workforce, as a teacher I was always working to deadlines, making sure classes were planned for the next day, exams both written and graded on time, and report cards were completed. From working in another country I have learned how to work well with other people even when we may not approach things in the same way. My ability to speak more than one language means that I can think laterally and solve problems faster when I get stuck.
+<div align="center">
 
-I am looking for a full stack position where I have the opportunity to use my skills to make real change and improvement.
+[<img src="./icons/github.svg" title="GitHub" height="24" align="top">&nbsp;GitHub](https://github.com/fraserbrookhouse)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/linkedin.svg" title="LinkedIn" height="24" align="top">&nbsp;LinkedIn](https://www.linkedin.com/in/fraser-brookhouse-6410102b/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/codewars-icon.svg" title="Codewars" height="24" align="top">&nbsp;Codewars](https://www.codewars.com/users/fraserbrookhouse)
 
-## Projects Worth Checking Out On My Github
+<em>
+Why did I want to be a developer? <br>
+I love building interesting tech projects, the more challenging the better!<br><br>
+Why should you hire me? <br>
+I am eager to learn, and give my all to every assignment.
+</em>
+</div>
+<br>
 
-| Name                         | Description       | Tech/tools        | Link  |
-| ---------------------------- | ----------------- | ----------------- | ----- |
-| **Theme-Park**            | Mock up of a theme park website with 4 pages. | HTML, CSS | https://github.com/fraserbrookhouse/Theme-Park
-| **Sidescrolling-Platformer** | An in-browser side-scrolling platform game. You need to jump over canyons and enemies to reach the flag at the end of the level. | p5.js/JavaScript              | https://github.com/fraserbrookhouse/Sidescrolling-platformer    |
+## About Me
 
-## Experience
+Prior to being a graduate from the Makers Software Development bootcamp, I was a primary school teacher in China.
 
-**Suzhou Foreign Language School** (August 2019 to March 2020)  
-Primary School Teacher
+I have spent the last five years living and working in China as a teacher. During that time I have been in charge of the education of hundreds of students, I have been a leader, mentor and friend. Everyday I met new challenges related to language, culture, and personalities. I feel that I rose to them all, and came out stronger for them.
 
-- I was a Primary School Teacher in a Bilingual School. I was responsible for the total English eduction of one class of 25 Chinese Grade 6 students including Maths, English(speaking, writing, and listening), Science and PE. I planned and made presentations for 4 to 5 classes per day, graded homework given nightly, wrote and graded end of unit and end of semester tests, as well as helping to write and grade the middle school entrance exams that my students would take. I learned to work to strict deadlines as part of a team.
+Now it is time for a new chapter in my life, and while the location may be familiar, the challenge is new.
 
-**Suzhou Institute of Trade and Commerce** (August 2017 to June 2019)  
-English Teacher
+<br>
 
-- Taught business English to 200 Chinese students majoring in Finance and Accounting. As 1 of only 2 foreign teachers I was left to my own devices, other than being given textbooks. So I had to design, plan, and teach 4 to 5 classes per day as well as write and grade speaking and listening tests without any support from management or coworkers. I learned to be very efficient with my time, to be self-sufficient with my work and how to command a room of up to 30 adult learners to ensure I had their attention whilst teaching.
+## Projects
 
-**Jiaxing Internation Experimental School** (November 2015 to June 2017)  
-English Teacher
+| Project | Description | Technologies |
+|-|-|-|
+| [Task Monster](https://github.com/fraserbrookhouse/task_monster) | Our Makers final project. A gamified task management app, inspired by Tamagotchi. Completing tasks grows and evolves your monster, failing to complete them shrinks and eventually kills it.  | React Native, React Native Game Engine, Matter.js, Expo, Ruby on Rails, MongoDB, CSS, HTML |
+| [Acebook](https://github.com/fraserbrookhouse/acebook-rails-quadropus) | During this group project, we were asked to create a Facebook clone. During this project we focused on agile working styles and how they fit into our teams as well as understanding how to build our first Ruby on Rails project. | Ruby on Rails, HTML, SCSS, Travis CI, RSpec and Capybara |
+| [Bank Tech Test](https://github.com/fraserbrookhouse/banktechtest) | This was a practice tech test during Week 10 of the Makers course where we had to create a virtual bank. <br> A key focus during this project was to work on my planning and documentation of the project. | Ruby, RSpec |
+----
 
-- Taught spoken English to 3 classes of Grade 4, 5 and 6 Chinese Primary School Students. I had to prepare and teach 4 classes per day. Not only was this my first teaching job and first job in a non-English speaking country, but I also joined this school in the middle of a term after the previous teacher was let go. This meant I had to quickly learn on the job with no pre-term preparation in order to ensure that I was fulfilling my students educational needs. The fact that I was asked to sign a contract for a second year speaks to how well I rose to the challenge.
+<br>
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Software and Hardware Troubleshooting and Testing
 
-#### This Skill
+During my time at both Makers and Buzz Radar, I spent extensive time testing and troubleshooting hardware. That allowed me to learn more about technology I was using but also meant that I would be able to aid with any other issues like this in the future.
+In the past, I attended CES in Las Vegas to provide both hardware and software troubleshooting support to the team and with my understanding of code, I was able to troubleshoot more software related issues onsite and provide tangible and concise information back to the developers back in the UK so that they could repair the issue remotely.
 
-- Experience
-- Achievements
-- Evidence
 
-#### Another Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Client Support, Training and Mentoring
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+My experience here dates back as far as 2010 when I worked in retail at O2 Telefonica advising customers for new tech and mobiles of the time. Since then I have gone on (post university graduation) to work in Japan teaching English as a foreign language. This supported my teaching style which carried over into my next role working with clients such as STA Travel, Ogilvy and Mindshare. <br>
+These roles combined required product knowledge and public speaking skills that allowed me to lead regular training sessions with clients where technical expertise and explanations were required. <br> <br>
+Using the skills and knowledge I acquired in my years of customer support and previous teaching experience has allowed me to pick up mentoring skills. I would like to see this continue to grow deep into my software development career.
+
+<br>
 
 ## Education
 
-#### Makers Academy (July 2020 to October 2020)
+### Makers Coding Bootcamp (May 2020 - August 2020)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+Learning how to apply industry-standard best practices to write *clean code* to *solve problems*
 
-#### University of London Goldsmiths (September 2019 Onwards)
-- Bachelors in Computer Science
-- This is an online, part time course which I have been taking in my spare time over the last year. I will likely continue this course over the next 4-5 years until I graduate.
-- Completed modules: Web Development, Introduction to Programming 1, Discrete Maths, Fundamentals of Computer Science.
+- **Applying industry-standard practices:**
+  - <a title = "Programming paradigm">**OOP**</a>, <a title = "Software Development Process">**TDD**</a> and <a title = "Software Development Process">**BDD**</a>, with testing frameworks: **RSpec**, **Jasmine**, **Jest**
+  - *Learning skills to become programming language agnostic using:* **Ruby**, **Rails**, **Javascript**, **NodeJS**, **Express**, **React**, **HTML5/CSS**
+  - **User Stories**, **Domain Modeling**: **CRC**, **UML**, **Wireframes** diagrams
+  - *Linting*, *code quality*, *test coverage* with **rubocop**, **eslint**, **simplecov**
+  - <a title = "Continuous Integration/Continuous Deployment/Continuous Delivery">**CI/CD**</a> pipeline with **TravisCI**, **CircleCI** and **Heroku**
+  - **Agile** (~2 week) group projects: **Trello**, <a title = "Minimum Viable Product">**MVP**</a>, **pairing** in 2-day **sprints**, **stand-ups**, **mood check-ins** and **retros**
 
-#### Aberystwith University (September 2011 to July 2015)
+### University of Aberytsywth (2011 - 2015)
 
-- Bachelors in International Politics
-- 2:1
+#### BSc International Politics 
 
-#### Other qualifications
 
-- Completed Google IT Support Specialization Course on Coursera.
-- Six month intensive Mandarin Chinese course at Beijing Language and Culture University (2010)
-- Passed HSK3 Mandarin Chinese proficiency exam (Third out of six levels)(20)
-- Maths A level
-- The Modern Python 3 Bootcamp on Udemy
 
-## Hobbies
+<br>
 
-In my spare time I love to stay fit, I try to get to the gym 5 times a week, and swim at least 3.
+## Experience
 
-My most involved hobby is definitely technology. I like to learn new technologies and use them in interesting and useful. In my largest project to date I built a media server, using a Synology NAS for storage mounted on an Intel Nuc Micro PC running Ubuntu for the processor. This server stores around 30 terabytes of media including movies, tv shows, music and photos all of which can be stream anywhere int he world using Plex. It has a web portal running in a docker container accessible through a proxy that allows me to manage it from anywhere in the word. Just to get this project up and running I had to learn how to use both linux and docker and how to get NAS to be mounted with correct permissions to allow it to be accessible on another system. It was a very exciting project and I find I have the most fun when I have to fix something that has gone wrong with it, rather than actually using it to see any of the stored media!
+### Suzhou Foreign Language School (2019 to 2020)    
+#### *Primary Teacher*  
+
+
+
+### Suzhou Institute of Trade and Commerce (2017 to 2019)   
+#### *ESL Teacher*
+
+
+
+
+### Nanhu International Experimental Primary School (2015 to 2017)   
+#### *Primary Teacher* 
+
+
+<br>
+
+## Hobbies & Other Interests
+
+- ⌨ **Tinkering:** I like to build systems to solve problems. In China there is no Netflix or anything similar for western movies and tv shows. So I built by own, using a Synology NAS for storage with 40TB of drives and an Intel NUC running docker images that would find, download and organise media totally automatically. I then could stream and consume that media using any device, anywhere in the country using plex. In fact it was such a stable system that I had a number of friends who were also using my service.
+- 💻 **Tech:** I love my gadgets, I have always been interested in the tech scene and what is coming down the pipeline.
+- ✈️ **Traveling & Languages:** I love to travel, I grew up travelling, and have lived in England, Scotland, Wales, Hong Kong, Australia, Hungary and China. During my 5 years in China I honed my Mandarin language ability. I have good conversational Mandarin and hold an HSK3 certificate.
+- 🏋️ **Fitness:** Since the first lockdown I have really gotten into my fitness. I now swim and weight lift pretty much every day of the week and enjoy tracking my hardwork on my apple watch.
