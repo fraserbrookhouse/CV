@@ -49,7 +49,7 @@ Learning how to apply industry-standard best practices to write *clean code* to 
 
 ### University of Aberytsywth (2011 - 2015)
 
-#### BSc International Politics 
+#### BSc International Politics 2:1
 
 
 
@@ -121,6 +121,11 @@ My big achievement in this role was a to create a research paper on the expected
 #### *Talent Acquisition*
 
 I learned how to search for and find potential applicants for upper management level positions in financial institutions. I presented these potential applicants with a short summary of their qualifications and work experience so they could be easily compared.
+
+## Other Things of Interest
+
+### Beijing Language and Culture University (2011)
+#### 6 Month Intensive Mandarin Language Course
 
 <br>
 
