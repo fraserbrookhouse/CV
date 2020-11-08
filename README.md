@@ -53,7 +53,7 @@ Learning how to apply industry-standard best practices to write *clean code* to 
 
 A part time, online degree which I began while working as a teacher. So far I have completed modules such as Introduction to Programming 1, Fundamentals of Comp Sci and Web Development. I hope to complete this degree in my spare time by 2015.
 
-[Here](https://github.com/fraserbrookhouse/Sidescrolling-platformer)Here is a project I completed in my introduction to programming 1 module. It is a platform game written in Javascript using the p5.js library.
+[Here](https://github.com/fraserbrookhouse/Sidescrolling-platformer) is a project I completed in my introduction to programming 1 module. It is a platform game written in Javascript using the p5.js library.
 
 ### University of Aberytsywth (2011 - 2015)
 
