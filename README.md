@@ -51,13 +51,17 @@ Learning how to apply industry-standard best practices to write *clean code* to 
 
 #### Bsc Computer Science
 
-A part time, online degree which I began while working as a teacher. So far I have completed modules such as introduction to Programming 1, Fundamentals of Comp Sci and Web Development. I hope to complete this degree in my spare time by 2015.
+A part time, online degree which I began while working as a teacher. So far I have completed modules such as Introduction to Programming 1, Fundamentals of Comp Sci and Web Development. I hope to complete this degree in my spare time by 2015.
+
+[Here](https://github.com/fraserbrookhouse/Sidescrolling-platformer)Here is a project I completed in my introduction to programming 1 module. It is a platform game written in Javascript using the p5.js library.
 
 ### University of Aberytsywth (2011 - 2015)
 
 #### BSc International Politics 2:1
 
+A course that looked at politics from all aspects, from the intricacies of nuclear diplomacy, to the effects of the web and filter bubbles on modern day politics. 
 
+I wrote my dissertation on the importance of human agency in the Cuban Missile Crisis, you can find it [here](https://drive.google.com/file/d/0B9vzFCuoF0LZNEVDenVLa1JKbGc/view?usp=sharing).
 
 <br>
 
