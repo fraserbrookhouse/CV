@@ -47,6 +47,12 @@ Learning how to apply industry-standard best practices to write *clean code* to 
   - <a title = "Continuous Integration/Continuous Deployment/Continuous Delivery">**CI/CD**</a> pipeline with **TravisCI**, **CircleCI** and **Heroku**
   - **Agile** (~2 week) group projects: **Trello**, <a title = "Minimum Viable Product">**MVP**</a>, **pairing** in 2-day **sprints**, **stand-ups**, **mood check-ins** and **retros**
 
+### University of London (2019- )
+
+#### Bsc Computer Science
+
+A part time, online degree which I began while working as a teacher. So far I have completed modules such as introduction to Programming 1, Fundamentals of Comp Sci and Web Development. I hope to complete this degree in my spare time by 2015.
+
 ### University of Aberytsywth (2011 - 2015)
 
 #### BSc International Politics 2:1
@@ -126,6 +132,13 @@ I learned how to search for and find potential applicants for upper management l
 
 ### Beijing Language and Culture University (2011)
 #### 6 Month Intensive Mandarin Language Course
+
+6 hours of Mandarin language classes, 5 days a week for 6 months. At the end I came away with a good foundation of Mandarin language ability.
+
+### The Gables School of Cookery (2009)
+#### 1 Month Residential Chalet and Yacht Chef Course
+
+I spent one month living in Bristol at a cooking school where I cooked breakfast, lunch and dinner 5 days a week to learn how to be a private chef for groups staying at ski chalets or on yachts.
 
 <br>
 
