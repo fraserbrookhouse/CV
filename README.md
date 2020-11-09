@@ -31,12 +31,6 @@ I hope to continue with my degree once I have a job to shore up my computer scie
 
 <br>
 
-## Skills
-
-
-
-<br>
-
 ## Education
 
 ### Makers Coding Bootcamp (May 2020 - August 2020)
