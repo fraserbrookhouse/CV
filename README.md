@@ -3,7 +3,9 @@
 <h1 align="center">Fraser Brookhouse</h1>
 
 <div align="center">
+
 [<img src="./icons/github.svg" title="GitHub" height="24" align="top">&nbsp;GitHub](https://github.com/fraserbrookhouse)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/linkedin.svg" title="LinkedIn" height="24" align="top">&nbsp;LinkedIn](https://www.linkedin.com/in/fraser-brookhouse-6410102b/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/codewars-icon.svg" title="Codewars" height="24" align="top">&nbsp;Codewars](https://www.codewars.com/users/fraserbrookhouse)
+
 </div>
 
 <br>
